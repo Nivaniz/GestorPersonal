@@ -44,6 +44,8 @@ Para poder ejecutar desde la API: `pipenv run uvicorn api:app --reload`
   <img src="https://github.com/Nivaniz/Proyectos/blob/main/Gestor/interfaz.png" alt="Interfaz" style="width: 100%; max-width: 50%;">
 </div>
 
+
+### Nota:
 Si tienes dudas del funcionamiento de una clase o función puedes agregar una línea de código como: 
 `help(función/clase)` para saber más de ella o leer mi documentación.
 
