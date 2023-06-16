@@ -36,12 +36,12 @@ Para poder ejecutar desde la API: `pipenv run uvicorn api:app --reload`
 
 ### API:
 <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="https://github.com/Nivaniz/Proyectos/blob/main/Gestor/api.png" alt="API" style="width: 100%; max-width: 50%;">
+  <img src="https://github.com/Nivaniz/GestorPersonal/blob/main/api.png" alt="API" style="width: 100%; max-width: 50%;">
 </div>
 
 ### Interfaz:
 <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="https://github.com/Nivaniz/Proyectos/blob/main/Gestor/interfaz.png" alt="Interfaz" style="width: 100%; max-width: 50%;">
+  <img src="https://github.com/Nivaniz/GestorPersonal/blob/main/interfaz.png" alt="Interfaz" style="width: 100%; max-width: 50%;">
 </div>
 
 
